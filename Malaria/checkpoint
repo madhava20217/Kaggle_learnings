@@ -1,0 +1,2 @@
+model_checkpoint_path: "95_pct_weights"
+all_model_checkpoint_paths: "95_pct_weights"
