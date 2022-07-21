@@ -1,2 +1,2 @@
-model_checkpoint_path: "95_pct_weights"
-all_model_checkpoint_paths: "95_pct_weights"
+model_checkpoint_path: "high_acc_res_weights"
+all_model_checkpoint_paths: "high_acc_res_weights"
