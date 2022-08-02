@@ -1,2 +1,2 @@
 # Kaggle Repository
-Just a repository which contains learnings by building models and conducting analyses on various datasets taken from Kaggle.com
+A repository which contains my Ml models and analyses on various datasets taken from Kaggle.com
